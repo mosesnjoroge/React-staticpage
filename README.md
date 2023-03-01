@@ -1,3 +1,6 @@
+<img width="861" alt="Screenshot 2023-02-28 at 9 36 31 PM" src="https://user-images.githubusercontent.com/102884273/222030782-895cbe6c-760b-484d-bdcf-043074bad88c.png">
+
+
 # React Static webpage with minimal styling bootstrapped by create react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

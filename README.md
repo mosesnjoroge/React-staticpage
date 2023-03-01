@@ -1,4 +1,4 @@
-# React Static webpAGE with minimal styling bootstrapped by create react app
+# React Static webpage with minimal styling bootstrapped by create react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
